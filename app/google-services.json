@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "759233219779",
+    "firebase_url": "https://gardolap-d6b88.firebaseio.com",
+    "project_id": "gardolap-d6b88",
+    "storage_bucket": "gardolap-d6b88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759233219779:android:1a8f2c4e7d8f7aca",
+        "android_client_info": {
+          "package_name": "com.meltemyilmaz.gelecegiyazanlar.gardolap_partone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759233219779-jblk6lbtpckacssga8gqqs98mmg8cmp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWZvK9XkR3pnuMN7TCmDPZIgqwoXaewp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759233219779:android:09b187440b55e707",
+        "android_client_info": {
+          "package_name": "com.meltemyilmaz.gelecegiyazanlar.gardolapparttwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759233219779-jblk6lbtpckacssga8gqqs98mmg8cmp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWZvK9XkR3pnuMN7TCmDPZIgqwoXaewp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759233219779:android:4eebc4438e102004",
+        "android_client_info": {
+          "package_name": "com.meltemyilmaz.gelecegiyazanlar.stepone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "759233219779-jblk6lbtpckacssga8gqqs98mmg8cmp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWZvK9XkR3pnuMN7TCmDPZIgqwoXaewp4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
